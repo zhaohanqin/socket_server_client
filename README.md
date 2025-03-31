@@ -1,0 +1,2 @@
+# socket_server_client
+一个基于python的socket服务器的搭建（同时包含了socket客户端的搭建），实现的效果为一个可以通过IP和端口号对服务器进行连接的聊天室
