@@ -200,4 +200,3 @@ if __name__ == '__main__':
     client.Show()
     # 循环显示
     app.MainLoop()
->>>>>>> master
